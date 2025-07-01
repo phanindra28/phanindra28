@@ -29,7 +29,7 @@
 
 ## 🌱 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/phanindra28/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/phanindra28)  
 
 ---
 
